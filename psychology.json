@@ -1,0 +1,56 @@
+{
+    "result": {
+        "data": {
+            "json": [
+                {
+                    "id": "BzCcYZZLRsp22Qyzt031D",
+                    "image": "https://lh3.googleusercontent.com/a/ACg8ocLkS_oznMqRcUU6btJkrm0EdLwTIGJ17S7XJvFInF0i=s96-c",
+                    "name": "Dark Psychology",
+                    "uri": "dark-psychology",
+                    "tagline": "",
+                    "_count": {
+                        "Prompts": 0
+                    },
+                    "numFollowers": 0,
+                    "following": false
+                },
+                {
+                    "id": "hQRfranMzViEuTCtOGyCI",
+                    "image": "https://lh3.googleusercontent.com/a/ACg8ocLeiz06egq90bLB0OviwTA1KcPhrGLe7tWZ4DK-ES1uk2I=s96-c",
+                    "name": "Hmanpsychology",
+                    "uri": "hmanpsychology",
+                    "tagline": "",
+                    "_count": {
+                        "Prompts": 0
+                    },
+                    "numFollowers": 0,
+                    "following": false
+                },
+                {
+                    "id": "qVaq3WfwYlIdojLdjoAge",
+                    "image": "https://lh3.googleusercontent.com/a/AGNmyxZIyrDMVuA1nNYNW3_pjegCoi6wASTu6isF4JqE8g=s96-c",
+                    "name": "depth psychology",
+                    "uri": "depth-psychology",
+                    "tagline": "",
+                    "_count": {
+                        "Prompts": 0
+                    },
+                    "numFollowers": 0,
+                    "following": false
+                },
+                {
+                    "id": "T5pZM2zB27thxpmKXGKAa",
+                    "image": "https://lh3.googleusercontent.com/a/ACg8ocIPkwf3G4PU33bI97lsU4ak2bGC44sMaUkWTnpOAZhTdQ=s96-c",
+                    "name": "Msc Forensic Psychology",
+                    "uri": "msc-forensic-psychology",
+                    "tagline": "",
+                    "_count": {
+                        "Prompts": 0
+                    },
+                    "numFollowers": 0,
+                    "following": false
+                }
+            ]
+        }
+    }
+}
