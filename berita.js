@@ -48,10 +48,10 @@ function load_rss(rss, no) {
                             <span class='view' data-show='true'><txt style='padding: 3px 7px; background: #772d69; border-radius: 9px; color: #fff; font-size: 11px;'>"+domain+"</txt> {author} Update Hari Ini: {date}\</span>\
                             <span class='time' data-show='true'>- {shortBody} {title}...\</span></p>\
                             <div class='download-btn'>\
-<button class='conv' onclick='window.location.href = &#39;#popup-article&#39;;conText(&#39;{url}&#39;, &#39;Buat Sebuah Artikel Berita dari text berikut: {shortBody} {title} &#39;, &#39;Buat Artikel&#39;, &#39;{teaserImage}&#39;)'>Buat Artikel Baru</button>\
-<button class='conv' onclick='window.location.href = &#39;#popup-article&#39;;conText(&#39;{url}&#39;, &#39;Ambil Isi Berita dari text berikut sertakan poin poin penting: {shortBody} {title} &#39;, &#39;Rekap Isi Berita&#39;, &#39;{teaserImage}&#39;)'>Rekap Isi Berita</button>\
-<button class='conv' onclick='window.location.href = &#39;#popup-article&#39;;conText(&#39;{url}&#39;, &#39;Rewrite isi Berita dari text berikut: {shortBody} {title} &#39;, &#39;Rewrite&#39;, &#39;{teaserImage}&#39;)'>Rewrite</button>\
-<button class='conv' onclick='window.location.href = &#39;#popup-article&#39;;conText(&#39;{url}&#39;, &#39;Summarize isi Berita dari text berikut lebih detail: {shortBody} {title} &#39;, &#39;Summarize&#39;, &#39;{teaserImage}&#39;)'>Summarize</button>\
+<button class='conv' onclick='window.location.href = conText(&#39;{url}&#39;, &#39;Buat Sebuah Artikel Berita dari text berikut: {shortBody} {title} &#39;, &#39;Buat Artikel&#39;, &#39;{teaserImage}&#39;)'>Buat Artikel Baru</button>\
+<button class='conv' onclick='window.location.href = conText(&#39;{url}&#39;, &#39;Ambil Isi Berita dari text berikut sertakan poin poin penting: {shortBody} {title} &#39;, &#39;Rekap Isi Berita&#39;, &#39;{teaserImage}&#39;)'>Rekap Isi Berita</button>\
+<button class='conv' onclick='window.location.href = conText(&#39;{url}&#39;, &#39;Rewrite isi Berita dari text berikut: {shortBody} {title} &#39;, &#39;Rewrite&#39;, &#39;{teaserImage}&#39;)'>Rewrite</button>\
+<button class='conv' onclick='window.location.href = conText(&#39;{url}&#39;, &#39;Summarize isi Berita dari text berikut lebih detail: {shortBody} {title} &#39;, &#39;Summarize&#39;, &#39;{teaserImage}&#39;)'>Summarize</button>\
 <button class='conv' onclick='window.open(&quot;{url}&quot;)'>Buka Link</button>\
                             </div>\
                         </div>\
